@@ -1,6 +1,6 @@
 # qtcreator_sublime_theme
-QT Creator sublime like theme
-Created by Mario Bereš
+QT Creator sublime like theme,
+Created by Mario Bereš,
 This theme is totaly free, you can, edit, fork or do what you want with it
 
 Linux
